@@ -1,0 +1,7 @@
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\bin\Debug\StringSocketTester.dll
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\bin\Debug\StringSocketTester.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\bin\Debug\StringSocket.dll
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\bin\Debug\StringSocket.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\obj\Debug\StringSocketTester.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\obj\Debug\StringSocketTester.dll
+C:\Users\Logan\Documents\CS3500Projects\PS7\StringSocketTester\obj\Debug\StringSocketTester.pdb
